@@ -1,0 +1,29 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "Question and Answer Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somoyetosin/qaApp.git"
+  },
+  "keywords": [
+    "Rest",
+    "API"
+  ],
+  "author": "Martins Somoye",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/somoyetosin/qaApp/issues"
+  },
+  "homepage": "https://github.com/somoyetosin/qaApp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.6",
+    "morgan": "^1.9.0"
+  }
+}
